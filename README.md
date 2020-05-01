@@ -11,4 +11,15 @@ Thank you to mikejs (https://github.com/mikejs/python-duckduckgo) and the rest o
 
 If you like using this tool, please spread the word so we can continue to make open-source software a viable future for humanity!
 
+# Installation
 
+To install run
+```
+python setup.py install
+```
+
+# Usage
+```
+$ ./search.py [Search Query Here]
+> Then type in the number corresponding to the search result from the menu!
+```
