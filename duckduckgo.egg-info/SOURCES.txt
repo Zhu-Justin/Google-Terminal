@@ -1,0 +1,8 @@
+README.md
+duckduckgo.py
+setup.py
+duckduckgo.egg-info/PKG-INFO
+duckduckgo.egg-info/SOURCES.txt
+duckduckgo.egg-info/dependency_links.txt
+duckduckgo.egg-info/entry_points.txt
+duckduckgo.egg-info/top_level.txt
