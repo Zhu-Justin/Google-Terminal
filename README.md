@@ -1,4 +1,4 @@
-# ~~Google~~ Duck Duck Go on the Terminal
+Duck Duck Go on the Terminal
 
 ## Motivation
 I was going through my screen time one day and noticed how much time I was spending on Google.  Nothing wrong about Google, only that I prefer to keep an air of mystery about me rather than to let Google know at every moment every single thought I'm having.
